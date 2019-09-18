@@ -1,0 +1,20 @@
+{
+    "name": "eNumbers",
+    "short_name": "eNumbers",
+    "icons": [
+        {
+            "src": "/assets/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/favicon-512x512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+          }
+    ],
+    "start_url":"../",
+    "theme_color": "#4e4848",
+    "background_color": "#4e4848",
+    "display": "standalone"
+}
